@@ -8,4 +8,4 @@ DING! My phone pinged me with a disturbing notification. It was Will, the scarie
 
 In this year's Halloween playground competition, you're challenged to predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft. We're encouraging you (with cash prizes!) to share your insights in the competition's discussion forum and code in Kernels. We've designated prizes to reward authors of kernels and discussion threads that are particularly valuable to the community. Click the "Prizes" tab on this overview page to learn more.
 
-[Competition Page](https://github.com/itratrahman/machine_learning_projects/tree/master/icebergclassifierchallenge/)
+[Competition Page](https://www.kaggle.com/c/spooky-author-identification)
