@@ -15,9 +15,9 @@ The test data set, (test.csv), is the same as the training set, except that it d
 Your submission file should be in the following format: For each of the 28000 images in the test set, output a single line containing the ImageId and the digit you predict. For example, if you predict that the first image is of a 3, the second image is of a 7, and the third image is of a 8, then your submission file would look like:
 
 ImageId,Label
-1,3
-2,7
-3,8
-(27997 more lines)
+ 1,3
+ 2,7
+ 3,8
+ (27997 more lines)
 
 The evaluation metric for this contest is the categorization accuracy, or the proportion of test images that are correctly classified. For example, a categorization accuracy of 0.97 indicates that you have correctly classified all but 3% of the images.
