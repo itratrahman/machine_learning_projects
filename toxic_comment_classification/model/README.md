@@ -5,3 +5,6 @@ The ipython notebooks are run on Google Colaboratory instead of Kaggle kernel, b
 1. clean_text_data.ipynb - this notebook cleans the raw text data in the train and test using regular expression and nltk library, and saves the cleaned data in google drive
 2. Word2VecGenerator.ipynb - this notebook generates word2vec model using gensim library and save the model.
 3. model - creates a multilayered lstm model with gpu computation
+
+# CAUTION!
+It looks like the github ipython notebook renderer has problems opening the entire jupyter notebook prepared in Google Colaboratory. If you face a problem in viewing the notebooks just download the notebooks and view them.
