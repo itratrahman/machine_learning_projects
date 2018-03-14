@@ -7,4 +7,4 @@ This repository contains my machine learning projects on kaggle data. Note that 
 2. [Spooky Author Identification](https://github.com/itratrahman/machine_learning_projects/tree/master/spookyauthoridentification)
 3. [Iceberg Classification Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/icebergclassifierchallenge)
 4. [Mercari Price Suggestion Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/mercari_price_suggestion_challenge)
-5. [Toxic Comment Classification Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/toxic_comment_classification)
+5. [Toxic Comment Classification Challenge using GPU](https://github.com/itratrahman/machine_learning_projects/tree/master/toxic_comment_classification)
