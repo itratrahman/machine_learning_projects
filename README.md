@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-This repository contains my machine learning projects on kaggle data. Note that predictive or classification models I use here are not the actual models that I use to create the submissions. The jupyter notebooks here serve as excellent tutorials. I have embarked on a career as video course publisher. So these notebooks might end up as lesson materials.
+This repository contains my machine learning projects on kaggle data. Note that predictive or classification models I use here are not the actual models that I use to create the submissions, but very similar to that. The jupyter notebooks here serve as excellent tutorials. I have embarked on a career as video course publisher. So these notebooks might end up as lesson materials.
 
 # Projects
 1. [MNIST](https://github.com/itratrahman/machine_learning_projects/tree/master/mnist)
