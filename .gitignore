@@ -123,3 +123,6 @@ ENV/
 *.dropbox
 *.ini
 *Icon
+
+# zip file
+*.zip
