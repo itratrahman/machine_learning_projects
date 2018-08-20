@@ -126,3 +126,9 @@ ENV/
 
 # zip file
 *.zip
+
+# machine learning model
+*.index
+*.meta
+checkpoint
+*.data-*
