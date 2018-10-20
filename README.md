@@ -10,5 +10,6 @@ This repository contains my machine learning projects on kaggle data. Note that 
 5. [Toxic Comment Classification Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/toxic_comment_classification)
 6. [2018 Data Science Bowl](https://github.com/itratrahman/machine_learning_projects/tree/master/2018_data_science_bowl)
 7. [Santander Value Prediction Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/santander_prediction_challenge)
+8. [TGS Salt Identification Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/salt_identification_challenge)
 
 
