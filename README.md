@@ -3,7 +3,7 @@
 This repository contains my machine learning projects on kaggle data. Note that predictive or classification models I use here are not the actual models that I use to create the submissions, but very similar to that. The jupyter notebooks here serve as excellent tutorials. I have embarked on a career as video course publisher. So these notebooks might end up as lesson materials. 
 
 # Beware
-Most model are trained using `gpu enabled virtual machines` on Google Cloud with the latest versions of `Anaconda` and `cuda drivers`installed. So do not try to run them without gpu-enabled workstations or linux kernels. I am currently using deep learning virtual machines which can be launched using a single command on Google Cloud (More Information)[https://cloud.google.com/deep-learning-vm/docs/tensorflow_start_instance].
+Most model are trained using `gpu enabled virtual machines` on Google Cloud with the latest versions of `Anaconda` and `cuda drivers`installed. So do not try to run them without gpu-enabled workstations or linux kernels. I am currently using deep learning virtual machines which can be launched using a single command on Google Cloud (More Information)(https://cloud.google.com/deep-learning-vm/docs/tensorflow_start_instance).
 
 # Projects
 1. [MNIST](https://github.com/itratrahman/machine_learning_projects/tree/master/mnist)
