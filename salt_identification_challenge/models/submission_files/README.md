@@ -1,1 +1,1 @@
-### This directory contains the csv submission files of UNET networks.
+### This directory contains the csv submission files of UNET network.

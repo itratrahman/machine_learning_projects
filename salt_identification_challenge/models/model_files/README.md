@@ -1,1 +1,1 @@
-### This directory contains tensorflow model files of UNET networks
+### This directory contains tensorflow model files of UNET network
