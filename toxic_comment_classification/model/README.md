@@ -7,7 +7,4 @@ The ipython notebooks are run on Google Colaboratory instead of Kaggle kernel, b
 # Embedded Colaboratory Links & File Descrition
 1. [clean_text_data.ipynb](https://drive.google.com/open?id=1gIRzxNALV28ueIlHfl0UHa8OHqoX9zsx) - this notebook cleans the raw text data in the train and test using regular expression and nltk library, and saves the cleaned data in google drive
 2. [Word2VecGenerator.ipynb](https://drive.google.com/open?id=1N2IieFh7Cm7zFXr_iwPaCOCNFEx0WMKX) - this notebook generates word2vec model using gensim library and save the model.
-3. [single_classifier_gpu](https://drive.google.com/open?id=14jQi-Ivo5h6OOezoo8Q6c_Ls4bb3bIx3) - creates a multilayered lstm model with gpu computation
-4. [multiple_classifiers_gpu](https://drive.google.com/open?id=11dONs-V0NO6yxzRv2QTEDz9bJ0RwXHAO) - creates six different multilayered lstm classifier for each sentiment with gpu computation
-
-
+3. [multitask_learning.ipynb](https://drive.google.com/open?id=14jQi-Ivo5h6OOezoo8Q6c_Ls4bb3bIx3) - creates a multilayered lstm model with gpu computation
