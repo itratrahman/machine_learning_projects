@@ -110,6 +110,7 @@ ENV/
 # picture files
 *.png
 *.jpg
+*.tif
 
 .idea/
 
