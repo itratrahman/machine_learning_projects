@@ -16,3 +16,4 @@ Most models are trained using `gpu enabled virtual machines` on Google Cloud wit
 7. [Santander Value Prediction Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/santander_prediction_challenge)
 8. [TGS Salt Identification Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/salt_identification_challenge)
 9. [Airbus Ship Detection Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/airbus_ship_detection_challenge)
+10. [Segmentation of neuronal structures in EM stacks](https://github.com/itratrahman/machine_learning_projects/tree/master/segmentation_of_neuronal_structures)
