@@ -6,3 +6,5 @@ In this challenge, a full stack of EM slices will be used to train machine learn
 ## Folder descriptions
 `input` - contains the images and mask of train & test set
 `model` - contrains the jupyter notebook which trains the model and also contain directories which stores the model files and submission files
+
+[CHALLENGE PAGE](http://brainiac2.mit.edu/isbi_challenge/)
