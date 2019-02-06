@@ -1,0 +1,1 @@
+### The input directory contains the folders for train and test images of Cifar10
