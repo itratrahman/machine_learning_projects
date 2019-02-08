@@ -127,6 +127,7 @@ ENV/
 
 # zip file
 *.zip
+*.tgz
 
 # machine learning model
 *.index

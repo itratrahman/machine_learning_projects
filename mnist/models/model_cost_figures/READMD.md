@@ -1,1 +1,0 @@
-### This directory contains the png plots of cost vs iterations of the UNET models
