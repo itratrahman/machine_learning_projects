@@ -119,6 +119,7 @@ ENV/
 
 # machine learning models
 *.mdl
+word2vec_model
 
 # dropbox files
 *.dropbox

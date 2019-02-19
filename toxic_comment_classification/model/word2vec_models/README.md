@@ -1,0 +1,1 @@
+### This directory contains gensim word2vec model files
