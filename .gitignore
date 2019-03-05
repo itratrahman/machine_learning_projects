@@ -133,5 +133,6 @@ word2vec_model
 # machine learning model
 *.index
 *.meta
+*.mdl
 checkpoint
 *.data-*
