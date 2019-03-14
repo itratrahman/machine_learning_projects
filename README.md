@@ -18,3 +18,4 @@ Most models are trained using `gpu enabled virtual machines` on Google Cloud wit
 9. [TGS Salt Identification Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/salt_identification_challenge)
 10. [Airbus Ship Detection Challenge](https://github.com/itratrahman/machine_learning_projects/tree/master/airbus_ship_detection_challenge)
 11. [Segmentation of neuronal structures in EM stacks](https://github.com/itratrahman/machine_learning_projects/tree/master/segmentation_of_neuronal_structures)
+12. [Yelp Dataset](https://github.com/itratrahman/machine_learning_projects/tree/master/yelp_dataset)
