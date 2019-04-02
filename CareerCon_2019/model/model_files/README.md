@@ -1,1 +1,1 @@
-### This directory contains the tensorflow model files
+### This directory contains tensorflow model files.
