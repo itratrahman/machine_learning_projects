@@ -1,0 +1,1 @@
+### This directory contains chunks of processed text. It is easy for gensim word2vec modules to work on chunks rather than to load and work on an enormous file
