@@ -20,3 +20,4 @@ Most models are trained using `gpu enabled virtual machines` on Google Cloud wit
 11. [Segmentation of neuronal structures in EM stacks | Computer Vision](https://github.com/itratrahman/machine_learning_projects/tree/master/segmentation_of_neuronal_structures)
 12. [Yelp Dataset | NLP](https://github.com/itratrahman/machine_learning_projects/tree/master/yelp_dataset)
 13. [CareerCon 2019 | Time Series Analysis](https://github.com/itratrahman/machine_learning_projects/tree/master/CareerCon_2019)
+14. [Amazon Reviews | NLP](https://github.com/itratrahman/machine_learning_projects/tree/master/amazon_reviews)
